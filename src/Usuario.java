@@ -9,11 +9,7 @@ public class Usuario {
     List<Orcamento>   orcamentos;
     List<Investimento>  Investimentos;
     List<Meta>   metas;
-    
-
-
         
-
     }
 
     
